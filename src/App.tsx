@@ -24,6 +24,8 @@ const CARDS: CardData[] = [
         </p>
         <p>
           Credo in interfacce pulite, architetture robuste e testi che vanno dritti al punto.
+          <br />
+          🚀 <em>Deployment Automatico: Attivo!</em>
         </p>
       </>
     )
